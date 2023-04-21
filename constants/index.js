@@ -1,20 +1,20 @@
 export const categories = [
   "All",
   "Gaming",
-  "React Routers",
+  "Programming",
   "Music",
-  "John Snow",
+  "React Routers",
   "Live",
   "Gadgets",
-  "Programming",
-  "Podcasts",
   "Computers",
+  "John Snow",
+  "Podcasts",
   "Others",
 ];
 
 export const shortVideos = [
   {
-    id: 2,
+    id: 1,
     title: "Reasons you should learn React Native",
     viewCount: "355k",
     image: require("../assets/images/short2.png"),
