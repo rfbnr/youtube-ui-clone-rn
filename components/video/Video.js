@@ -32,7 +32,7 @@ const VideoCard = ({ video }) => (
 );
 
 export function SuggestedVideo() {
-  return <VideoCard video={videos[2]} />;
+  return <VideoCard video={videos[videos.length - 1]} />;
 }
 
 export default function Video() {
